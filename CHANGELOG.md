@@ -4,6 +4,6 @@
 
 ## 2026-06-08
 
-- Initial scaffold generated for `tiledesk-dashboard-overlay`.
-- Classification: `overlay`.
-- Reason: best value is in packaging, adapters, docs, or deployment layers
+- Replaced the placeholder scaffold with a self-host overlay kit for Tiledesk Dashboard.
+- Added a config audit CLI for env files and dashboard remote-config files.
+- Added deployment templates, operator docs, tests, and a patching guide.

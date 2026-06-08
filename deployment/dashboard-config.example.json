@@ -1,0 +1,14 @@
+{
+  "WIDGET_BASE_URL": "https://widget.example.com/",
+  "botcredendialsURL": "https://bot-credentials.example.com",
+  "SERVER_BASE_URL": "https://tiledesk-server.example.com/",
+  "CHAT_BASE_URL": "https://chat.example.com/chat",
+  "globalRemoteJSSrc": "",
+  "firebaseAuth": false,
+  "chatEngine": "mqtt",
+  "updloaEngine": "native",
+  "pushEngine": "none",
+  "logLevel": "INFO",
+  "wsUrl": "wss://dashboard.example.com/ws/",
+  "brandSrc": "https://assets.example.com/brand.json"
+}
