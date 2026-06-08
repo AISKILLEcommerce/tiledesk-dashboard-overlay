@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-06-08T12:23:39.685Z",
+  "projectName": "tiledesk-dashboard-overlay",
+  "publishMode": "overlay",
+  "classification": "overlay",
+  "category": "customer-support",
+  "source": {
+    "fullName": "Tiledesk/tiledesk-dashboard",
+    "htmlUrl": "https://github.com/Tiledesk/tiledesk-dashboard",
+    "owner": "Tiledesk",
+    "repo": "tiledesk-dashboard",
+    "license": {
+      "spdxId": "MIT",
+      "name": "MIT License",
+      "url": "https://api.github.com/licenses/mit"
+    },
+    "defaultBranch": "master",
+    "pushedAt": "2026-06-08T10:38:52Z",
+    "updatedAt": "2026-06-08T10:22:46Z"
+  },
+  "scores": {
+    "activityScore": 5,
+    "maturityScore": 3.5,
+    "dependencyComplexityScore": 0,
+    "licenseRiskScore": 5,
+    "adaptationPotentialScore": 4,
+    "totalScore": 17.5
+  },
+  "signals": {
+    "hasCi": true,
+    "hasTests": false,
+    "hasContributing": false,
+    "hasReadme": true,
+    "hasReleases": true,
+    "estimatedMajorDependencies": 90
+  },
+  "artifactPlan": [
+    "README.md",
+    "ATTRIBUTION.md",
+    "CHANGELOG.md",
+    "RISK.md"
+  ]
+}
